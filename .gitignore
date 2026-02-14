@@ -1,0 +1,32 @@
+# Virtual Environment
+venv/
+env/
+.venv/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# AI Models (too large)
+*.pth
+*.pt
+models/
+
+# Data files
+*.jpg
+*.png
+*.mp4
+test_images/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Outputs
+outputs/
+results/
